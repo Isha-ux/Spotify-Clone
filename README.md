@@ -7,7 +7,7 @@
 <h3>Features</h3>
 <ul>
 <li>Responsive design</li>
-<li>>Sidebar navigation</li>
+<li>Sidebar navigation</li>
 <li> Music library</li>
 <li> Main content section</li>
  <li>Footer</li>
